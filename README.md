@@ -32,4 +32,4 @@ under strict change control. Three repos cover it:
 Checkmk, internal PKI/ACME with step-ca, vulnerability management, local LLM inference,
 AI agent operations.
 
-**LinkedIn:** [https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE)
+**LinkedIn:** [https://www.linkedin.com/in/cody-gunst/](https://www.linkedin.com/in/cody-gunst/)
