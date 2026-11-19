@@ -6,8 +6,7 @@ Alongside the degree I earned the WCTC **Network Enterprise Administrator** (Tec
 Diploma), **Storage and Virtualization Administrator**, **Enterprise Support Technician**,
 **IT-Security Manager**, and **IT-Security Administrator** credentials, plus the **Cisco
 CCNA Certificate** — a WCTC credential covering CCNA-aligned coursework, not the Cisco
-CCNA exam. I'm currently working toward the actual **Cisco CCNA**, **CompTIA Security+**,
-**CompTIA A+**, and **AWS Cloud Practitioner**.
+CCNA exam.
 
 In 2026 I completed an **IT internship at RD Technology** in Menomonee Falls, WI
 (June–September). Before and during school I spent **20+ years helping run our
