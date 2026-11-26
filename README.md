@@ -8,6 +8,7 @@ Network and systems administration candidate based in Hartford, Wisconsin.
 - **WCTC credentials:** Network Enterprise Administrator (Technical Diploma); Storage and Virtualization Administrator, Enterprise Support Technician, IT-Security Manager, IT-Security Administrator, and Cisco CCNA (Certificates). *The Cisco CCNA certificate is a WCTC college credential covering CCNA coursework, not Cisco's vendor certification.*
 - **IT Intern, RD Technology** (managed services provider), Menomonee Falls, WI · June–September 2026: Chromebook fleet administration in Google Admin Console, low-voltage cabling at client sites, and job-site project point of contact.
 - **Volunteer IT & network manager** for a multi-tenant community center, since April 2025: installed 10+ UniFi access points, replaced the core switch, and designed a seven-network segmentation plan that is now being rolled out — see the [technology & AV project plan](https://github.com/Cgunst/tcc-projects) I wrote for its committee and donors.
+- **Hartford Union High School Technology Council** member (since November 2026): technical subject-matter input on the district's technology use policy.
 - **2003–2023:** helped run our family-owned custom embroidery and screen-printing business, including desktop support and the company's UniFi network.
 
 **Certifications in progress:** CompTIA Security+ (current focus), Cisco CCNA, CompTIA A+, AWS Certified Cloud Practitioner.
@@ -20,11 +21,11 @@ Network and systems administration candidate based in Hartford, Wisconsin.
 
 ## Homelab
 
-My practice environment is two Proxmox VE hosts behind an OPNsense firewall, with Checkmk monitoring being built out and a private certificate authority for internal TLS.
+My practice environment is two Proxmox VE hosts behind an OPNsense firewall plus an off-site node, with Checkmk monitoring, a private certificate authority for internal TLS, a self-hosted secrets manager, and a Talos Kubernetes proof of concept managed through GitOps.
 
 - **[homelab](https://github.com/Cgunst/homelab)**: architecture, decision records, and runbooks.
 - **[ai-agent-ops](https://github.com/Cgunst/ai-agent-ops)**: how I run a self-hosted AI agent under written work orders, with human-only steps for risky changes.
 
-**Skills in practice:** Proxmox VE, LXC/VMs, Linux administration, OPNsense, UniFi, VLAN design, Pi-hole/Unbound DNS, Checkmk, internal PKI, Windows Server/Active Directory (coursework), local LLM inference.
+**Skills in practice:** Proxmox VE, LXC/VMs, Linux administration, OPNsense, UniFi, VLAN design, Pi-hole/Unbound DNS, Checkmk, internal PKI, Kubernetes (Talos), OpenTofu, Flux GitOps, secrets management (Infisical), backup restore drills, Windows Server/Active Directory (coursework), local LLM inference.
 
 **LinkedIn:** [linkedin.com/in/cody-gunst](https://www.linkedin.com/in/cody-gunst/)
