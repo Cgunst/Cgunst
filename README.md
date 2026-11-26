@@ -9,9 +9,11 @@ Network and systems administration candidate based in Hartford, Wisconsin.
 - **IT Intern, RD Technology** (managed services provider), Menomonee Falls, WI · June–September 2026: Chromebook fleet administration in Google Admin Console, low-voltage cabling at client sites, and job-site project point of contact.
 - **Volunteer IT & network manager** for a multi-tenant community center, since April 2025: installed 10+ UniFi access points, replaced the core switch, and designed a seven-network segmentation plan that is now being rolled out — see the [technology & AV project plan](https://github.com/Cgunst/tcc-projects) I wrote for its committee and donors.
 - **Hartford Union High School Technology Council** member (since November 2026): technical subject-matter input on the district's technology use policy.
-- **2003–2023:** helped run our family-owned custom embroidery and screen-printing business, including desktop support and the company's UniFi network.
+- **Manager / IT Project Manager, family-owned custom embroidery and screen printing business** (12 employees), Hartford, WI · 2003–2023, still consulting: about 20 years of desktop support and 8+ years running the company's UniFi network.
+- **On-premise CRM/ERP for the family business** (in progress, my own initiative): Next.js, Prisma, PostgreSQL, built to capture 30 years of job history now on handwritten cards. Private repo.
+- **Proposed a $17K–$33K asset and inventory tracking system** (Snipe-IT + InvenTree) during my RD Technology internship; acknowledged, not budgeted.
 
-**Certifications in progress:** CompTIA Security+ (current focus), Cisco CCNA, CompTIA A+, AWS Certified Cloud Practitioner.
+**Next certification:** CompTIA Security+ (in progress). On the roadmap after that: Cisco CCNA.
 
 **Looking for:** network administration, systems administration, and IT project roles, with a long-term aim of IT leadership.
 
